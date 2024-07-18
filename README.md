@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Mohamed
+- 👀 I’m interested in Machine Learning and Optimisation
+- 🌱 I’m currently learning Data Science
